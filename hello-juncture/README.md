@@ -4,7 +4,7 @@ The original Shu Zaiyang edition of the novel, published in the early 1600s, doe
 
 The illustrations in the 1895 Hongwen shuju edition is likely based on the 1891 Guangbaisongzhai edition, and, like the 1891 edition, feature both character portraits and chapter illustrations.
 
-Below are a comparison of Nezha's character portraits in the 1695 and 1895 edition, as well as a short iconographic analysis.
+Below are Nezha's depictions in the Shu Zaiyang edition, followed by a comparison of Nezha's character portraits in the 1695 and 1895 edition.
 
 ## Earlier Context: Nezha in the Shu Zaiyang Edition illustrations
 
