@@ -1,6 +1,6 @@
 # Fengshen yanyi Character Portraits: 1695 and 1895
 
-The original Shu Zaiyang edition of the novel, published in the early 1600s, does not have individual character portraits, only a single illustration for each chapter. The earliest known edition of *Fengshen yanyi* with individual character portraits appears to be the 1695 Shan cheng tang edition, which only has the portraits in the preface of the book and no chapter illustrations.
+The original Shu Zaiyang edition of the novel, published in the early 1600s, does not have individual character portraits, only a single print illustration for each chapter. The earliest known edition of *Fengshen yanyi* with individual character portraits appears to be the 1695 Shan cheng tang edition, which only has the portraits in the preface of the book and no chapter illustrations.
 
 The illustrations in the 1895 Hongwen shuju edition is likely based on the 1891 Guangbaisongzhai edition, and, like the 1891 edition, feature both character portraits and chapter illustrations.
 
