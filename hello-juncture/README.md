@@ -18,15 +18,15 @@ This is Nezha's earliest cameo in Chapter 12, prior to his death and Lotus Body 
 
 ![Nezha in the Shu Edition, Chapter 14](https://ryinsilverfish.github.io/media/NezhaChapter14.png)
 
-Nezha right after the Lotus Resurrection, chasing Li Jing down in Chapter 14. (p. 25 of the PDF, right panel )
+Nezha right after the Lotus Resurrection, chasing Li Jing down in Chapter 14. (p. 25, right panel )
 
 ![Nezha in the Shu Edition, Chapter 33](https://ryinsilverfish.github.io/media/NezhaChapter33.png)
 
-Nezha re-enters the story in Chapter 33 to rescue Huang Feihu and his family. From here on, this design will be most consistently used for him in the illustrations. (p. 34 of the PDF, left panel)
+Nezha re-enters the story in Chapter 33 to rescue Huang Feihu and his family. From here on, this design will be most consistently used for him in the illustrations. (p. 34, left panel)
 
 ![Nezha in the Shu Edition, Chapter 79](https://ryinsilverfish.github.io/media/NezhaChapter79.png)
 
-Nezha in his new Three-headed, Eight-armed Form. In-story, he receives the transformation ability from his master Taiyi in Chapter 76, but the design appears in the Chapter 79 illustration.
+Nezha in his new Three-headed, Eight-armed Form. In-story, he receives the transformation ability from his master Taiyi in Chapter 76, but the design appears in the Chapter 79 illustration. (p. 57, left panel)
 
 ## *Xiu xiang feng shen yan yi*, 1695, Shan cheng tang edition
 
