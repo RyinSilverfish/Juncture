@@ -6,6 +6,26 @@ The illustrations in the 1895 Hongwen shuju edition is likely based on the 1891 
 
 Below are a comparison of Nezha's character portraits in the 1695 and 1895 edition, as well as a short iconographic analysis.
 
+## Earlier Context: Nezha in the Shu Zaiyang Edition illustrations
+
+Because the Shu Zaiyang Edition does not have individual character portraits, I have taken partial screenshots of Nezha's design in the chapter illustrations, using the PDF scan from the [National Archives of Japan](https://www.digital.archives.go.jp/img/4216020).
+
+![Nezha in the Shu Edition, Chapter 12](https://ryinsilverfish.github.io/media/NezhaChapter12.png)
+
+This is Nezha's earliest cameo in Chapter 12, prior to his death and Lotus Body Resurrection.
+
+![Nezha in the Shu Edition, Chapter 14](https://ryinsilverfish.github.io/media/NezhaChapter14.png)
+
+Nezha right after the Lotus Resurrection, chasing Li Jing down in Chapter 14.
+
+![Nezha in the Shu Edition, Chapter 33](https://ryinsilverfish.github.io/media/NezhaChapter33.png)
+
+Nezha re-enters the story in Chapter 33 to rescue Huang Feihu and his family. From here on, this design will be most consistently used for him in the illustrations.
+
+![Nezha in the Shu Edition, Chapter 79](https://ryinsilverfish.github.io/media/NezhaChapter79.png)
+
+Nezha in his new Three-headed, Eight-armed Form. In-story, he receives the transformation ability from his master Taiyi in Chapter 76, but the design appears in the Chapter 79 illustration.
+
 ## *Xiu xiang feng shen yan yi*, 1695, Shan cheng tang edition
 
 ![Nezha Portrait in the 1695 Edition](https://api.digitale-sammlungen.de/iiif/image/v2/bsb11129917_00038/full/full/0/default.jpg) 
@@ -28,3 +48,19 @@ Image comes from the scan [封神真形圖.2冊.55像.清代墨繪本.pdf](https
 This image is a print portrait of Nezha from the 1895 edition of *Fengshen yanyi*. A "Cloud Shoulder" (Yunjian) accessory made of lotus leaves is worn around his shoulders, which may be the result of opera costume infleunces. His magical sash is tied around his waist like a belt, and he wields both a spear and his iconic Qiankun Ring.
 
 Image comes from [Zeng xiang quan tu Feng shen yan yi. (增像全圖封神演義) v.1-4](https://babel.hathitrust.org/cgi/pt?id=nnc1.cu05117771&seq=132), hosted on HathiTrust.
+
+## Analysis
+
+Overall, the twin hair buns and Wind-Fire Wheels from the Ming illustrations have been inherited by the two subsequent character portraits. However, the 1695 edition illustration seems to take more inspiration from the traditional depiction of Shancai/Sudhana, an acolyte of Guanyin who also inspires the Red Boy character in *Journey to the West*. As a result, the design incorporates jewelry and floating sashes that are more commonly seen on Buddhist deities, compared to the highly Daoist-ized Nezha of *Fengshen yanyi*
+
+In contrast to both the Ming illustrations and the 1695 portrait, the 1895 edition takes more inspiration from opera costume than folk deity iconography, and may be the earliest design where Nezha's clothes have a lotus motif. Perhaps the different choices in character designs reflects the medium through which the novel's story was most commonly received by a popular audience?
+
+## Bibliography:
+
+"新刻鍾伯敬先生批評封神演義No.1." National Archives of Japan Digital Archive. Accessed April 16, 2025. https://www.digital.archives.go.jp/img/4216020
+
+Xiu xiang feng shen yan yi. 1, Di 1-10 ce. Shan cheng tang, 1695. Digitale Sammlungen Ostasien. Accessed April 16, 2025. https://www.digitale-sammlungen.de/en/details/bsb11129917
+
+封神真形圖.2冊.55像.清代墨繪本. 1 November 2015. *Wikimedia.org.* Wikimedia Commons. Accessed April 16, 2025. https://commons.wikimedia.org/wiki/File:%E5%B0%81%E7%A5%9E%E7%9C%9F%E5%BD%A2%E5%9C%96.2%E5%86%8A.55%E5%83%8F.%E6%B8%85%E4%BB%A3%E5%A2%A8%E7%B9%AA%E6%9C%AC.pdf
+
+Zeng xiang quan tu Feng shen yan yi. (增像全圖封神演義) v.1-4. Hong wen shu ju, 1895. Columbia University. HathiTrust. Accessed April 16, 2025. https://catalog.hathitrust.org/Record/102363874
